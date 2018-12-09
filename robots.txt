@@ -11,5 +11,6 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
+
 Sitemap: https://weizhixiaoyi.com/sitemap.xml
 Sitemap: https://weizhixiaoyi.com/baidusitemap.xml
